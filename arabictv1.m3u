@@ -9,11 +9,11 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC4" tvg-logo="https://media0090.elcinema.com/tvguide/1129_1.png" ,MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-id="MBC5" ,MBC 5 (1080p)
+#EXTINF:-1 tvg-id="MBC5" tvg-logo="https://media0090.elcinema.com/tvguide/1354_1.png" ,MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood" ,MBC Bollywood (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="MBCBollywood" tvg-logo="https://media0090.elcinema.com/tvguide/1259_1.png" ,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="MBCDrama" ,MBC Drama KSA (1080p)
+#EXTINF:-1 tvg-id="MBCDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1194_1.png" ,MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM" ,MBC FM (1080p)
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
@@ -23,7 +23,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia" ,MBC Persia (720p)
 https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates",Abu Dhabi Emirates (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiEmirates" tvg-logo="https://media0090.elcinema.com/tvguide/1135_1.png" ,Emirates
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1",Abu Dhabi Sports 1 (1080p)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
@@ -79,7 +79,7 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiTV" tvg-logo="https://media0090.elcinema.com/tvguide/1169_1.png" ,Dubai TV (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman",Dubai Zaman (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DubaiZaman" tvg-logo="https://media0090.elcinema.com/tvguide/1283_1.png" ,Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="FujairahTV",Fujairah TV (720p)
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
