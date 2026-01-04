@@ -23,7 +23,11 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia" ,MBC Persia (720p)
 https://hls.mbcpersia.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiEmirates" tvg-logo="https://media0090.elcinema.com/tvguide/1135_1.png" ,Emirates
+#EXTINF:-1 tvg-id="AlSharqiya" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" , Al-Sharqiya 
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyanews" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" , Al-Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="Emirates" tvg-logo="https://media0090.elcinema.com/tvguide/1135_1.png" ,Emirates
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1",Abu Dhabi Sports 1 (1080p)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
