@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
+#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" ,MBC
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasrDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1399_1.png" ,MBC Masr Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
@@ -57,7 +57,7 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiSports3.ae@SD",Dubai Sports 3 (1080p) [Not 24/7]
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiTV.ae@SD",Dubai TV (1080p)
+#EXTINF:-1 tvg-id="DubaiTV.ae@SD" tv-logo="https://media0090.elcinema.com/tvguide/1169_1.png" ,Dubai TV (1080p)
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DubaiZaman.ae@SD",Dubai Zaman (1080p) [Not 24/7]
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
@@ -65,11 +65,11 @@ https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chun
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Majid.ae@HD",Majid (1080p)
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae@SD",MBC 1 (1080p)
+#EXTINF:-1 tvg-id="MBC1.ae@SD" tv-logo="https://media0090.elcinema.com/tvguide/1127_1.png" ,MBC 1 (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae@SD",MBC 1 (1080p)
+#EXTINF:-1 tvg-id="MBC1.ae@SD" tv-logo="https://media0090.elcinema.com/tvguide/1127_1.png" ,MBC 1 (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC4.ae@SD",MBC 4 (1080p)
+#EXTINF:-1 tvg-id="MBC4.ae@SD" tv-logo="https://media0090.elcinema.com/tvguide/1129_1.png" ,MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="MBC5.ae@SD",MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
