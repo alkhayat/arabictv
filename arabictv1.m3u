@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" group-title="Entertainment" ,MBC
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 tvg-id="Alkas-2" tvg-logo="" group-title="Entertainment" ,Alkas-2
+http://iptv.am000.tv:8000/live/add17/add17/405.ts
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0093.elcinema.com/tvguide/1340_1.png" group-title="Entertainment" ,MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr" tvg-logo="https://media0093.elcinema.com/tvguide/1239_1.png" group-title="Entertainment" ,MBC Masr
