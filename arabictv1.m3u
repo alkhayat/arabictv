@@ -7,6 +7,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_50.m3u8
 #EXTINF:-1 tvg-id="MBCMasrDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1399_1.png" group-title="Entertainment" ,MBC Masr Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama" tvg-logo="https://media0093.elcinema.com/tvguide/1131_1.png" group-title="Entertainment" ,MBC Drama
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" group-title="Entertainment" ,MBC
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC4" tvg-logo="https://media0090.elcinema.com/tvguide/1129_1.png" group-title="Entertainment" ,MBC 4
@@ -15,8 +17,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e9
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood" tvg-logo="https://media0090.elcinema.com/tvguide/1259_1.png" ,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="MBCDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1194_1.png" group-title="Entertainment" ,MBC Drama
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM" group-title="Radio" ,MBC FM
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM" group-title="Radio" , MBC FM
