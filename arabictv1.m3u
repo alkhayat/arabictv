@@ -3,141 +3,135 @@
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasrDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1399_1.png" ,MBC Masr Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
-#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" ,MBC
+#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" group-title="Entertainment" ,MBC
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" ,MBC
+#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0090.elcinema.com/tvguide/1127_1.png" group-title="Entertainment" ,MBC
 https://shls-live-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC4" tvg-logo="https://media0090.elcinema.com/tvguide/1129_1.png" ,MBC 4
+#EXTINF:-1 tvg-id="MBC4" tvg-logo="https://media0090.elcinema.com/tvguide/1129_1.png" group-title="Entertainment" ,MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-#EXTINF:-1 tvg-id="MBC5" tvg-logo="https://media0090.elcinema.com/tvguide/1354_1.png" ,MBC 5
+#EXTINF:-1 tvg-id="MBC5" tvg-logo="https://media0090.elcinema.com/tvguide/1354_1.png" group-title="Entertainment" ,MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood" tvg-logo="https://media0090.elcinema.com/tvguide/1259_1.png" ,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="MBCDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1194_1.png" ,MBC Drama
+#EXTINF:-1 tvg-id="MBCDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1194_1.png" group-title="Entertainment" ,MBC Drama
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-id="MBCFM" ,MBC FM (1080p)
+#EXTINF:-1 tvg-id="MBCFM" group-title="Radio" ,MBC FM
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 tvg-id="MBCFM", MBC FM (1080p)
+#EXTINF:-1 tvg-id="MBCFM" group-title="Radio" , MBC FM
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
-#EXTINF:-1 tvg-id="MBCPersia" ,MBC Persia (1080p)
+#EXTINF:-1 tvg-id="MBCPersia" group-title="Entertainment" ,MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1 tvg-id="AlSharqiya" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" , Al-Sharqiya 
+#EXTINF:-1 tvg-id="AlSharqiya" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" group-title="Entertainment" , Al-Sharqiya 
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyanews" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" , Al-Sharqiya News
+#EXTINF:-1 tvg-id="AlSharqiyanews" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" group-title="News" , Al-Sharqiya News
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="Emirates" tvg-logo="https://media0090.elcinema.com/tvguide/1135_1.png" ,Emirates
+#EXTINF:-1 tvg-id="Emirates" tvg-logo="https://media0090.elcinema.com/tvguide/1135_1.png" group-title="Entertainment" ,Emirates
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports1",Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports1" group-title="Sports" ,Abu Dhabi Sports 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2",Abu Dhabi Sports 2 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports2" group-title="Sports" ,Abu Dhabi Sports 2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiTV",Abu Dhabi TV (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiTV" group-title="Entertainment" ,Abu Dhabi TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="AjmanTV",Ajman TV (1080p)
+#EXTINF:-1 tvg-id="AjmanTV" group-title="Entertainment" ,Ajman TV
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Alarabiya",Al Arabiya (1080p)
+#EXTINF:-1 tvg-id="Alarabiya" group-title="News" ,Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Alarabiya",Al Arabiya (1080p)
+#EXTINF:-1 tvg-id="Alarabiya" group-title="News" ,Al Arabiya
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaBusiness",Al Arabiya Business (1080p)
+#EXTINF:-1 tvg-id="AlArabiyaBusiness" group-title="News" ,Al Arabiya Business
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms",Al Arabiya Programs (1080p)
+#EXTINF:-1 tvg-id="AlArabiyaPrograms" group-title="News" ,Al Arabiya Programs
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
-#EXTINF:-1 tvg-id="AlDafrahTV",Al Dafrah TV (720p)
+#EXTINF:-1 tvg-id="AlDafrahTV" group-title="Entertainment" ,Al Dafrah TV
 https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8
-#EXTINF:-1 tvg-id="AlQamarTV",Al Qamar TV (1080p)
+#EXTINF:-1 tvg-id="AlQamarTV" group-title="News" ,Al Qamar TV
 https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1 tvg-id="AlShallalTV",Al Shallal TV (1080p)
+#EXTINF:-1 tvg-id="AlShallalTV" group-title="Religious" ,Al Shallal TV
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaMinKabla",Al Sharqiya Min Kabla (1080p)
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla" group-title="Entertainment" ,Al Sharqiya Min Kabla
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlWoustaTV",Al Wousta TV (1080p)
+#EXTINF:-1 tvg-id="AlWoustaTV" group-title="Entertainment" ,Al Wousta TV
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlYaumTV",Al Yaum TV (1080p)
+#EXTINF:-1 tvg-id="AlYaumTV" group-title="Entertainment" ,Al Yaum TV
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 tvg-id="Alarabiya",Alarabiya (1080p)
+#EXTINF:-1 tvg-id="Alarabiya" group-title="News" ,Alarabiya
 https://shls-live-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-id="Alarabiya",Alarabiya
+#EXTINF:-1 tvg-id="Alarabiya" ,Alarabiya
 https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
-#EXTINF:-1 tvg-id="Alarabiya",Alarabiya
+#EXTINF:-1 tvg-id="Alarabiya" group-title="News" ,Alarabiya
 https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
-#EXTINF:-1 tvg-id="BaynounahTV",Baynounah TV (1080p)
+#EXTINF:-1 tvg-id="BaynounahTV" group-title="Entertainment" ,Baynounah TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/baynounah/baynounah_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="CNBCArabiya",CNBC Arabiya (1080p)
+#EXTINF:-1 tvg-id="CNBCArabiya" ,CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-id="DubaiOne",Dubai One (1080p)
+#EXTINF:-1 tvg-id="DubaiOne" group-title="Entertainment" ,Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing",Dubai Racing (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing" group-title="Sports" ,Dubai Racing
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing2",Dubai Racing 2 (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing2" group-title="Sports" ,Dubai Racing 2
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3",Dubai Racing 3 (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing3" group-title="Sports" ,Dubai Racing 3
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1",Dubai Sports 1 (1080p)
+#EXTINF:-1 tvg-id="DubaiSports1" group-title="Sports" ,Dubai Sports 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2",Dubai Sports 2 (720p)
+#EXTINF:-1 tvg-id="DubaiSports2" group-title="Sports" ,Dubai Sports 2
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3",Dubai Sports 3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="DubaiSports3" group-title="Sports" ,Dubai Sports 3
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiTV" tvg-logo="https://media0090.elcinema.com/tvguide/1169_1.png" ,Dubai TV (1080p)
+#EXTINF:-1 tvg-id="DubaiTV" tvg-logo="https://media0090.elcinema.com/tvguide/1169_1.png" group-title="Entertainment" ,Dubai TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="DubaiZaman" tvg-logo="https://media0090.elcinema.com/tvguide/1283_1.png" ,Dubai Zaman
+#EXTINF:-1 tvg-id="DubaiZaman" tvg-logo="https://media0090.elcinema.com/tvguide/1283_1.png" group-title="Entertainment" ,Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="FujairahTV",Fujairah TV (720p)
+#EXTINF:-1 tvg-id="FujairahTV" group-title="Entertainment" ,Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Majid",Majid (1080p)
+#EXTINF:-1 tvg-id="Majid" group-title="Kids" ,Majid
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi",National Geographic Abu Dhabi HD (1080p)
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi" group-title="Documentary" ,National Geographic Abu Dhabi HD
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="NoorDubai",Noor Dubai (1080p)
+#EXTINF:-1 tvg-id="NoorDubai" group-title="Entertainment" ,Noor Dubai
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="NourTV",Nour TV
+#EXTINF:-1 tvg-id="NourTV" group-title="Religious" ,Nour TV
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="PeaceTVBangla",Peace TV Bangla (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese",Peace TV Chinese (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVEnglish",Peace TV English (1080p)
+#EXTINF:-1 tvg-id="PeaceTVEnglish" group-title="Religious" ,Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVUrdu",Peace TV Urdu (1080p)
-https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-#EXTINF:-1 tvg-id="Pulse95Radio",Pulse95 Radio (1080p)
+#EXTINF:-1 tvg-id="Pulse95Radio" group-title="Radio" ,Pulse95 Radio
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
-#EXTINF:-1 tvg-id="SamaDubai",Sama Dubai (1080p)
+#EXTINF:-1 tvg-id="SamaDubai" group-title="Entertainment" ,Sama Dubai
 https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sharjah2",Sharjah 2 (1080p)
+#EXTINF:-1 tvg-id="Sharjah2" group-title="Entertainment" ,Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahRadio",Sharjah Radio (1080p)
+#EXTINF:-1 tvg-id="SharjahRadio" group-title="Radio" ,Sharjah Radio
 https://svs.itworkscdn.net/smcradiolive/smcradiolive/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahRadioQuran",Sharjah Radio Quran (1080p)
+#EXTINF:-1 tvg-id="SharjahRadioQuran" group-title="Radio" ,Sharjah Radio Quran
 https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahSports",Sharjah Sports (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SharjahSports" group-title="Sports" ,Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahSports",Sharjah Sports (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SharjahSports" group-title="Sports" ,Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahTV",Sharjah TV (1080p)
+#EXTINF:-1 tvg-id="SharjahTV" group-title="Entertainment" ,Sharjah TV
 https://live.kwikmotion.com/smc1live/smc1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahTV",Sharjah TV (1080p)
+#EXTINF:-1 tvg-id="SharjahTV" ,Sharjah TV
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahTV",Sharjah TV (360p)
+#EXTINF:-1 tvg-id="SharjahTV" group-title="Entertainment" ,Sharjah TV 
 https://cdn-globecast.akamaized.net/live/eds/sharjah_tv/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia",Sky News Arabia (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNewsArabia" group-title="News" ,Sky News Arabia
 https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia",Sky News Arabia (1080p)
+#EXTINF:-1 tvg-id="SkyNewsArabia" group-title="News" ,Sky News Arabia
 https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia",Sky News Arabia (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNewsArabia" group-title="News" ,Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabiaVertical",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical" group-title="News" ,Sky News Arabia 
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabiaVertical",Sky News Arabia Vertical (1080p)
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical" group-title="News" ,Sky News Arabia Vertical
 https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic",Spacetoon Arabic (1080p)
+#EXTINF:-1 tvg-id="SpacetoonArabic" group-title="Kids" ,Spacetoon Arabic
 https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic",Spacetoon Arabic (1080p)
+#EXTINF:-1 tvg-id="SpacetoonArabic" group-title="Kids" ,Spacetoon Arabic
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:-1 tvg-id="WatarRadio",Watar Radio (1080p)
+#EXTINF:-1 tvg-id="WatarRadio" group-title="Radio" ,Watar Radio
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-id="YasTV",Yas TV (1080p)
+#EXTINF:-1 tvg-id="YasTV" group-title="Sports" ,Yas TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/yas_1/yas_1_hls_nd/index.m3u8
-#EXTINF:-1 tvg-id="Wanasah",Wanasah (1080p)
+#EXTINF:-1 tvg-id="Wanasah" group-title="Music" ,Wanasah
 https://wanasah-prod-dub-enc.edgenextcdn.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
