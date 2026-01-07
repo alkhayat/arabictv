@@ -5,6 +5,8 @@ https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr" tvg-logo="https://media0093.elcinema.com/tvguide/1239_1.png" group-title="Entertainment" ,MBC Masr
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_50.m3u8
+#EXTINF:-1 tvg-id="MBCMasr" tvg-logo="https://media0093.elcinema.com/tvguide/1278_1.png" group-title="Entertainment" ,MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasrDrama" tvg-logo="https://media0090.elcinema.com/tvguide/1399_1.png" group-title="Entertainment" ,MBC Masr Drama
 https://shls-live-enc.edgenextcdn.net/out/v1/08eca926a78a41339b8010c882410307/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama" tvg-logo="https://media0093.elcinema.com/tvguide/1131_1.png" group-title="Entertainment" ,MBC Drama
