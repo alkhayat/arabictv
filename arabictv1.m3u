@@ -3,6 +3,8 @@
 https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0093.elcinema.com/tvguide/1340_1.png" group-title="Entertainment" ,MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-id="MBC1" tvg-logo="https://media0093.elcinema.com/tvguide/1132_1.png" group-title="Entertainment" ,MBC Max
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.m3u8
 #EXTINF:-1 tvg-id="MBCMasr" tvg-logo="https://media0093.elcinema.com/tvguide/1239_1.png" group-title="Entertainment" ,MBC Masr
 https://shls-masr-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_50.m3u8
 #EXTINF:-1 tvg-id="MBCMasr" tvg-logo="https://media0093.elcinema.com/tvguide/1278_1.png" group-title="Entertainment" ,MBC Masr 2
