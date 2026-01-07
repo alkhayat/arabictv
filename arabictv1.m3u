@@ -19,16 +19,16 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e9
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood" tvg-logo="https://media0090.elcinema.com/tvguide/1259_1.png" ,MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
 #EXTINF:-1 tvg-id="MBCPersia" group-title="Entertainment" ,MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="AlIraqiyaAl3ama" tvg-logo="https://media0093.elcinema.com/tvguide/1349_1.png" group-title="Iraq" ,Al Iraqiya Al 3ama
 https://list.iptvcat.com/my_list/s/b7f6ac19c59eb85c7e2a351a89f2b8c8.m3u8
 #EXTINF:-1 tvg-id="AlRasheed" tvg-logo="" group-title="Iraq" ,Al Rasheed
 https://list.iptvcat.com/my_list/s/28d3360dc4a992c993c143adc897ff79.m3u8
 #EXTINF:-1 tvg-id="MBCFM" group-title="Radio" ,MBC FM
-https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
 #EXTINF:-1 tvg-id="MBCFM" group-title="Radio" , MBC FM
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" group-title="Iraq" , Al-Sharqiya 
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyanews" tvg-logo="https://media0090.elcinema.com/tvguide/1269_1.png" group-title="News" , Al-Sharqiya News
